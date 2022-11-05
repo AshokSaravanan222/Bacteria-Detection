@@ -1,7 +1,7 @@
 # Medical-Interventions-SkinCancerPaper
 Author: Ashok Saravanan
 
-Created 10-18-2021
+Created 04-04-2022
 
 
 For my Medical Interventions PLTW class, I was asked to appoximate the percentage of bacteria that grew on the image of a petri dish. Although this seems like a simple, and straightforward task, I had to get machine learning involved.
